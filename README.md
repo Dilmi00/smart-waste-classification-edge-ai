@@ -138,7 +138,7 @@ smart-waste-classification-edge-ai/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/smart-waste-classification-edge-ai.git
+git clone https://github.com/Dilmi00/smart-waste-classification-edge-ai.git
 
 cd smart-waste-classification-edge-ai
 ```
