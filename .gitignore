@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+mlruns/
+mlartifacts/
+data/raw/
+data/splits/
+models/*.pt
+models/*.pth
+models/*.onnx
+artifacts/*.png
+artifacts/*.json
+artifacts/*.csv
+
+# Python cache
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow database
+mlflow.db
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# MLflow SQLite
+mlflow.db
+*.db-shm
+*.db-wal
